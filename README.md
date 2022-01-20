@@ -1,5 +1,5 @@
 - hi :), im sardic
-- html/css/java
+- python/js
 - ig; @parotg
 
 
